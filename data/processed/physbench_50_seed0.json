@@ -1,0 +1,688 @@
+[
+  {
+    "idx": 9124,
+    "question": "From the following alternatives, which one represents the correct sequence in flower blooming?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 1 - 2\nB. 3 - 2 - 1\nC. 2 - 3 - 1\nD. 1 - 2 - 3\n",
+    "image_files": [
+      "UkHSfMd0DQDc.jpg",
+      "eOLiz2Crk2wt.jpg",
+      "utI9MVs2FoeV.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "others",
+    "ability_type": "reasoning",
+    "mode": "general"
+  },
+  {
+    "idx": 3914,
+    "question": "Among the following choices, which one correctly outlines the steps to take the lid off the white jar and place it on the counter?Identify the option that accurately lists the steps to take the lid off the white jar and place it on the counter in the correct order.From the following options, which one correctly sequences the process to take the lid off the white jar and place it on the counter?Select the option that accurately depicts the order of steps to take the lid off the white jar and place it on the counter.Among the following options, which one presents the steps to take the lid off the white jar and place it on the counter in the right sequence?Which of the listed options shows the proper order of actions to take the lid off the white jar and place it on the counter?Determine which of the following alternatives correctly arranges the steps to take the lid off the white jar and place it on the counter.Which option accurately represents the correct order to take the lid off the white jar and place it on the counter from the choices below?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 2 - 1\nB. 1 - 3 - 2\nC. 3 - 1 - 2\nD. 2 - 1 - 3\n",
+    "image_files": [
+      "2kJrAIvodSKh.jpg",
+      "D8pweMmmKXn6.jpg",
+      "Uk2q4HugEhwU.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 7103,
+    "question": "Among the following choices, which one correctly outlines the steps to put the tiger plushy in the black bowl?Identify the option that accurately lists the steps to put the tiger plushy in the black bowl in the correct order.From the following options, which one correctly sequences the process to put the tiger plushy in the black bowl?Select the option that accurately depicts the order of steps to put the tiger plushy in the black bowl.Among the following options, which one presents the steps to put the tiger plushy in the black bowl in the right sequence?Which of the listed options shows the proper order of actions to put the tiger plushy in the black bowl?Determine which of the following alternatives correctly arranges the steps to put the tiger plushy in the black bowl.Which option accurately represents the correct order to put the tiger plushy in the black bowl from the choices below?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 1 - 3\nB. 3 - 2 - 1\nC. 1 - 2 - 3\nD. 2 - 3 - 1\n",
+    "image_files": [
+      "L4V9xoMfEvtT.jpg",
+      "Wc3ZA9tRuXir.jpg",
+      "gyQE4BH3suSP.jpg"
+    ],
+    "answer": "B",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3943,
+    "question": "Which of the following choices indicates the right sequence of actions to take the watermelon toy out of the drawer and put it in the basket?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 1 - 3\nB. 3 - 1 - 2\nC. 1 - 2 - 3\nD. 2 - 3 - 1\n",
+    "image_files": [
+      "jjZhu4stNC7e.jpg",
+      "lyLtVNzqZxf3.jpg",
+      "pMRP4x9FKL5c.jpg"
+    ],
+    "answer": "B",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 6776,
+    "question": "Among the listed choices, which one outlines the proper sequence to hang the white towel on the black stand?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 1 - 2 - 3\nC. 1 - 3 - 2\nD. 3 - 1 - 2\n",
+    "image_files": [
+      "IWEmphJmI40O.jpg",
+      "NS3iAJeSmEAI.jpg",
+      "ZVT1sXcXHQGF.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3468,
+    "question": "<image>\nTo pull out a nail the hammer, which point is most suitable?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "8TLXQ31cQKvm.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 4129,
+    "question": "Which of the following options lists the steps in the correct sequence to close the take-away food container?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 3 - 2 - 1\nC. 3 - 1 - 2\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "4uWq21MrhxsS.jpg",
+      "W1FW78wO4Mzk.jpg",
+      "b9c0XK5aDywX.jpg"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3990,
+    "question": "Which of the following options lists the steps in the correct sequence to close the door?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 1 - 3 - 2\nB. 1 - 2 - 3\nC. 3 - 2 - 1\nD. 2 - 1 - 3\n",
+    "image_files": [
+      "29eRg3rhbPf0.jpg",
+      "YCkgzhq4lGf0.jpg",
+      "ufprWf2jSWtu.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3931,
+    "question": "Which of the following options lists the steps in the correct sequence to take the red pen out of the blue bowl?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 1 - 2\nB. 1 - 3 - 2\nC. 3 - 2 - 1\nD. 2 - 3 - 1\n",
+    "image_files": [
+      "AmzkDUM9R9Vn.jpg",
+      "bQNBHqxCpnCy.jpg",
+      "tvXA2L5gyTkQ.jpg"
+    ],
+    "answer": "B",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 7284,
+    "question": "Which of the following options lists the steps in the correct sequence to remove the bottle from the open cabinet, put it on the counter, put it back in the cabinet and then put it back on the counter?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 2 - 1\nB. 2 - 3 - 1\nC. 3 - 1 - 2\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "N96JXAePOGk3.jpg",
+      "eX0GAOx5JqEp.jpg",
+      "yXlUmquaj7RJ.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 8346,
+    "question": "Which of the following options is the correct order to take the lid off of the plastic container?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 2 - 1 - 3\nC. 3 - 1 - 2\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "4fWayCpUqM7R.jpg",
+      "KWoDfwwSJhs3.jpg",
+      "bPjSDwQylbwO.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3598,
+    "question": "<image>\nTo pull out a nail the tablefork, which point is most suitable?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "UWnxjz6kaFsK.png"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 3983,
+    "question": "Which of the following options lists the steps in the correct sequence to close the brown box?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 1 - 2\nB. 1 - 3 - 2\nC. 3 - 2 - 1\nD. 2 - 3 - 1\n",
+    "image_files": [
+      "2cqFd2HhgCbX.jpg",
+      "4R6DQcojRcnA.jpg",
+      "yOahguJ56PaA.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3794,
+    "question": "<image>\nTo pull out a nail the tablefork, which point is most suitable?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "ymYlARvMYn87.png"
+    ],
+    "answer": "B",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 6754,
+    "question": "Among the listed choices, which one outlines the proper sequence to place the cloth on the table?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 1 - 2 - 3\nC. 3 - 2 - 1\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "IoN5KFamzAXO.jpg",
+      "TxbXcM4p8apK.jpg",
+      "vMmT8YFPBI1Y.jpg"
+    ],
+    "answer": "C",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 8365,
+    "question": "Which of the following choices indicates the right sequence of actions to remove the snacks from the orange packet and put them in the black bowl?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 1 - 3\nB. 3 - 2 - 1\nC. 1 - 3 - 2\nD. 1 - 2 - 3\n",
+    "image_files": [
+      "4GitTKTp3oAV.jpg",
+      "F025Qh3xEMVD.jpg",
+      "ktPJKGxQo8KT.jpg"
+    ],
+    "answer": "B",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 4126,
+    "question": "Which of the following choices indicates the right sequence of actions to close the overhead cabinet door?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 1 - 2 - 3\nB. 1 - 3 - 2\nC. 2 - 3 - 1\nD. 3 - 2 - 1\n",
+    "image_files": [
+      "3HJjaBxXTbN1.jpg",
+      "7Rf9tqCu61Vb.jpg",
+      "VLVgCZHB0yCh.jpg"
+    ],
+    "answer": "C",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 8302,
+    "question": "Which of the following choices indicates the right sequence of actions to remove the lid from the transparent jar?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 3 - 1 - 2\nB. 1 - 2 - 3\nC. 2 - 1 - 3\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "aj8X90hmHKdz.jpg",
+      "oyguNyurQ8W8.jpg",
+      "qSGw7zy21S9y.jpg"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3541,
+    "question": "<image>\nTo pull out a nail the hammer, which point is most suitable?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "JmTwWK43af2O.jpg"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 7101,
+    "question": "Which of the following options presents the correct sequence to put the stick of glue in the mug?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 1 - 3\nB. 2 - 3 - 1\nC. 1 - 3 - 2\nD. 3 - 1 - 2\n",
+    "image_files": [
+      "JKpl7k0JcDt6.jpg",
+      "jfzUTQ7ld50R.jpg",
+      "rkfAFaYKJllx.jpg"
+    ],
+    "answer": "D",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 7291,
+    "question": "Among the listed choices, which one outlines the proper sequence to remove the coffee pod from the coffee maker?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 1 - 3 - 2\nC. 3 - 1 - 2\nD. 3 - 2 - 1\n",
+    "image_files": [
+      "oiGFlitVGzkA.jpg",
+      "ppnIh2qmE85q.jpg",
+      "u6B8e5fkng7R.jpg"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 6779,
+    "question": "Which of the provided options demonstrates the accurate steps to move a sock from the flat drawer to the shelve, and pick up the mango and put it on the flat drawer?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 1 - 2 - 3\nB. 3 - 2 - 1\nC. 2 - 1 - 3\nD. 1 - 3 - 2\n",
+    "image_files": [
+      "NwPSBAvV1XZO.jpg",
+      "pDEtkCModTuE.jpg",
+      "vPd0Rley9a6Z.jpg"
+    ],
+    "answer": "C",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 7318,
+    "question": "Which of the provided options demonstrates the accurate steps to remove the lid from the pot and place it on the tray?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 3 - 1\nB. 3 - 1 - 2\nC. 1 - 2 - 3\nD. 3 - 2 - 1\n",
+    "image_files": [
+      "0tzTixyujyD0.jpg",
+      "Bfv0dRoUFCwN.jpg",
+      "S5vYSXHeIiS0.jpg"
+    ],
+    "answer": "C",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 3442,
+    "question": "<image>\nTo pull out a nail the tablefork, which point is most suitable?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "3po8hjPTEdx7.png"
+    ],
+    "answer": "C",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 6719,
+    "question": "Among the listed choices, which one outlines the proper sequence to close the upper drawer of the cabinet to the left?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 2 - 1 - 3\nB. 1 - 3 - 2\nC. 3 - 1 - 2\nD. 1 - 2 - 3\n",
+    "image_files": [
+      "cnhOEzncQend.jpg",
+      "hWIwZIlyMYgS.jpg",
+      "u4gHVdMJlSpJ.jpg"
+    ],
+    "answer": "A",
+    "task_type": "dynamics",
+    "sub_type": "manipulation",
+    "ability_type": "judgment",
+    "mode": "general"
+  },
+  {
+    "idx": 2394,
+    "question": "<image>\nFollowing the arrow's direction in the picture, which of the following options are you most likely to notice?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "L8aRhE2a32pm.jpg",
+      "xWbZhcUjDyy6.jpg",
+      "k6VLOnS5DqYP.jpg",
+      "5TqAuWOuDHY5.jpg",
+      "83MTckAl8J4M.jpg"
+    ],
+    "answer": "A",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2201,
+    "question": "<image>\nMoving in the direction indicated by the arrow in the picture, which of the following options are you most likely to see?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "5WltqxMRiQiK.jpg",
+      "ljO2XbK6pR0j.jpg",
+      "Nb3S21aFTEvf.jpg",
+      "pEYCaxsuH0mG.jpg",
+      "JjBjCHN5mk0r.jpg"
+    ],
+    "answer": "D",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2823,
+    "question": "<image>\nIf you move in the direction of the arrow in the picture, which of the following options is most likely to be seen?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "Kx8AQr3vprJz.jpg",
+      "k27WQIVXw0YY.jpg",
+      "TrwqS3WEYew3.jpg",
+      "owAk3LevWkHU.jpg",
+      "VEq8iguWowdt.jpg"
+    ],
+    "answer": "D",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 1063,
+    "question": "<image>\nDetermine the point closest to the paw of the dog:\nA. Point A is the closest\nB. Point B is the closest\nC. Point C is the closest\nD. Point D is the closest",
+    "image_files": [
+      "4wBbFvyzuDSl.png"
+    ],
+    "answer": "B",
+    "task_type": "relationships",
+    "sub_type": "location",
+    "ability_type": "static",
+    "mode": "image-only"
+  },
+  {
+    "idx": 2552,
+    "question": "<image>\nWhen you move in the direction of the arrow depicted in the picture, which of the following options are you most likely to see?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "Wf07Ip5sLpmP.jpg",
+      "4k1JVfrX0Xtm.jpg",
+      "OpppjnlQIgOr.jpg",
+      "2ofKDKIcMVTM.jpg",
+      "I0x473J4EfIf.jpg"
+    ],
+    "answer": "C",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2431,
+    "question": "<image>\nIn the direction pointed by the arrow in the picture, which of the following options are you most likely to find?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "XeOivFjqVGoH.jpg",
+      "GDqesV84mshf.jpg",
+      "YFPofmwBnvti.jpg",
+      "HgT0uDxTFiie.jpg",
+      "4WJSQ5oUf4u6.jpg"
+    ],
+    "answer": "D",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2382,
+    "question": "<image>\nWhen you move in the direction of the arrow depicted in the picture, which of the following options are you most likely to see?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "71gAzHY5OoKK.jpg",
+      "kt3uprbMGMyE.jpg",
+      "Gml1gp3TjF7C.jpg",
+      "ZQ4O584I0TnK.jpg",
+      "tLS1bkQy4pdR.jpg"
+    ],
+    "answer": "A",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2354,
+    "question": "<image>\nIf you proceed in the direction indicated by the arrow in the picture, which of the following options are you most likely to observe?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "fkhWqps8FxO2.jpg",
+      "IU37WcbwvCPt.jpg",
+      "xnLOhIgO0ghX.jpg",
+      "unMOOgZhoRz6.jpg",
+      "ImDMvRhQMaJ5.jpg"
+    ],
+    "answer": "B",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 1084,
+    "question": "<image>\nIdentify the point on the man's hand\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "5TVyRmhC1ZOk.png"
+    ],
+    "answer": "C",
+    "task_type": "relationships",
+    "sub_type": "location",
+    "ability_type": "static",
+    "mode": "image-only"
+  },
+  {
+    "idx": 1964,
+    "question": "<image>\nMoving in the direction indicated by the arrow in the picture, which of the following options are you most likely to see?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "pb6kFhWDGx4D.jpg",
+      "O717YA5iDjfV.jpg",
+      "yfSP7Et8I8ZJ.jpg",
+      "73X2OhkVmh7q.jpg",
+      "9RmDF8ALtwp4.jpg"
+    ],
+    "answer": "C",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2130,
+    "question": "<image>\nAs you follow the direction of the arrow in the picture, which of the following options are you most likely to observe?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "04VAY37ulEmY.jpg",
+      "PVoozQNA45Kz.jpg",
+      "wosMQVdEAQus.jpg",
+      "6fYh58QXYGn6.jpg",
+      "8Z6WX13IS0nT.jpg"
+    ],
+    "answer": "D",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 2555,
+    "question": "<image>\nIf you move in the direction of the arrow in the picture, which of the following options is most likely to be seen?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "79R7vmR5GOah.jpg",
+      "m9DbTtg4TSgf.jpg",
+      "ZaCgzih9FqhC.jpg",
+      "T7ykLAovKWfW.jpg",
+      "Lms2CwabiBRX.jpg"
+    ],
+    "answer": "A",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 1110,
+    "question": "<image>\nWhich point is positioned closest to the camera?\nA. Point A is positioned closest\nB. Point B is positioned closest\nC. Point C is positioned closest\nD. Point D is positioned closest",
+    "image_files": [
+      "70S94TuAMzHY.png"
+    ],
+    "answer": "A",
+    "task_type": "relationships",
+    "sub_type": "depth",
+    "ability_type": "static",
+    "mode": "image-only"
+  },
+  {
+    "idx": 1897,
+    "question": "<image>\nFollowing the arrow's direction in the picture, which of the following options are you most likely to notice?\nA. <image>\nB. <image>\nC. <image>\nD. <image>\n",
+    "image_files": [
+      "Enzvzq8E3C5Y.jpg",
+      "3mgnxGNKifW8.jpg",
+      "LSEKM9cPHdra.jpg",
+      "tbHlXF0Z2GVm.jpg",
+      "9XyIWMYz4iZZ.jpg"
+    ],
+    "answer": "B",
+    "task_type": "relationships",
+    "sub_type": "motion",
+    "ability_type": "static",
+    "mode": "general"
+  },
+  {
+    "idx": 1069,
+    "question": "<image>\nSelect the point closest to the camera:\nA. Point A is the closest\nB. Point B is the closest\nC. Point C is the closest\nD. Point D is the closest",
+    "image_files": [
+      "5AbaiilhE6ZC.png"
+    ],
+    "answer": "B",
+    "task_type": "relationships",
+    "sub_type": "depth",
+    "ability_type": "static",
+    "mode": "image-only"
+  },
+  {
+    "idx": 8852,
+    "question": "<image>\nIn the photo, which point with option marks the object possessing the least stiff?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "n4hz47mEBTXM.png"
+    ],
+    "answer": "C",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 9505,
+    "question": "<image>\nIn the image, which point with option points to the object showing the least brittle?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "1svEzlrvzBWS.png"
+    ],
+    "answer": "D",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 9096,
+    "question": "<image>\nWhich point with option in the image isolates the object with the most soft?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "xTtZDVfs0sP3.png"
+    ],
+    "answer": "D",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 8909,
+    "question": "<image>\nIn the image, which point with option indicates the object that features the most stiff?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "Umk3HE3cNoia.png"
+    ],
+    "answer": "D",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 8706,
+    "question": "<image>\nIn the photograph, which point with option indicates the object that features the most sharp?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "ecUWWBwlg792.png"
+    ],
+    "answer": "D",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 1626,
+    "question": "<image>\nWhich has more sushi or sesame seeds?\n A. sushi\nB. can't be determined\nC. equal\nD. sesame seeds",
+    "image_files": [
+      "LBbLYLSbQmb6.jpg"
+    ],
+    "answer": "D",
+    "task_type": "property",
+    "sub_type": "number",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 8738,
+    "question": "<image>\nIn the picture, which point with option isolates the object with the most stiff?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "aFs0GYCaAlrq.png"
+    ],
+    "answer": "A",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 9051,
+    "question": "<image>\nWhich point with option in the photograph pinpoints the object with the least smooth?\nA. Point A\nB. Point B\nC. Point C\nD. Point D",
+    "image_files": [
+      "sbdr139QijYF.png"
+    ],
+    "answer": "B",
+    "task_type": "property",
+    "sub_type": "attribute",
+    "ability_type": "comparison",
+    "mode": "image-only"
+  },
+  {
+    "idx": 202,
+    "question": "<image>\n Which number in the image is closer to the camera lens?\nA. 4\nB. 5\nC. 6\nD. 7",
+    "image_files": [
+      "uqeaZXZkquw.jpg"
+    ],
+    "answer": "D",
+    "task_type": "scene",
+    "sub_type": "viewpoint",
+    "ability_type": "perception",
+    "mode": "image-only"
+  },
+  {
+    "idx": 9175,
+    "question": "From the following options, which one correctly sequences the stages of gasification?\nimage #1: <image>\nimage #2: <image>\nimage #3: <image>\nA. 1 - 3 - 2\nB. 2 - 1 - 3\nC. 3 - 1 - 2\nD. 3 - 2 - 1\n",
+    "image_files": [
+      "5LfCRWZTjO1r.jpg",
+      "SFbs3uYHQ4JU.jpg",
+      "ppR2gJmBzKBt.jpg"
+    ],
+    "answer": "B",
+    "task_type": "scene",
+    "sub_type": "air",
+    "ability_type": "reasoning",
+    "mode": "general"
+  }
+]
